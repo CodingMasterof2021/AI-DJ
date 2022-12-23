@@ -1,0 +1,13 @@
+body{
+    background-image: url("ultracool.jpg");
+}
+
+#title{
+    color: yellowgreen;
+}
+
+#canvas{
+    border: 5px;
+    box-shadow: inset;
+    
+}
